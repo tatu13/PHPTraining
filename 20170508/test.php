@@ -6,4 +6,10 @@ if($test!="hello world"){
 }else{
     print "合ってます";
 }
+
+function local(){
+    $local="test";
+    print $local.$grobal."\n";
+}
+$grobal="isTest";
  ?>
