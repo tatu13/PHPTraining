@@ -1,15 +1,15 @@
 <?php
 $test = "hello world";
 print $test."<br />";
-if($test!="hello world"){
-    print "違います";
-}else{
-    print "合ってます";
-}
 
+$global="isTest";
 function local(){
     $local="test";
-    print $local.$grobal."\n";
+    global $global;
+    print $local."&nbsp;".$global."\n";
+    echo "aaaa","bbbb";
+    print "aaaa"."bbbb";
 }
-$grobal="isTest";
+
+local();
  ?>
