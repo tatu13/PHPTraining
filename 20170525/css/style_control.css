@@ -1,0 +1,41 @@
+div#enq_area{
+    width:550px;
+    margin:0 25px;
+    height: 175px;
+    padding-top:15px;
+    background-color: #FFF;
+}
+
+div#form{
+    margin: 0 auto;
+    height: 375px;
+}
+
+div#enq_area p{
+    font-size: 1.4em;
+}
+
+#enq_title{
+    font-size:1.5em;
+    color:#A00;
+}
+table.flat-table {
+    max-width: 1200px;
+    display: block;
+    font-family: sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 115%;
+    overflow: auto;
+    width: auto;
+    margin:0 auto;
+}
+th {
+    font-weight: normal;
+    text-align: center;
+    background-color: #DDD;
+}
+td {
+    background-color: #FFF;
+    color: rgb(111, 111, 111);
+    padding: 5px 10px;
+}

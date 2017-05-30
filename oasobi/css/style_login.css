@@ -1,0 +1,29 @@
+#warn{
+    font-size: 24px;
+    color:#F00;
+    text-align: center;
+}
+
+input[type="text"]{
+    height:50px;
+    width:400px;
+    font-size: 22px;
+}
+
+input[type="submit"]{
+    margin-top: 5px;
+	width:120px;
+	height:40px;
+	background-color:#e83f22;
+	border:none;
+	color:#fff;
+	font-size:13px;
+	font-weight:700;
+	text-align:center;
+    margin-right:5px;
+}
+
+input[type="submit"]:hover{
+	background-color:#ff7f50 !important;
+	color:#fff;
+}

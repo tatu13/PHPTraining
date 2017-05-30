@@ -1,0 +1,21 @@
+div#enq_area{
+    width:550px;
+    margin:0 25px;
+    height: 175px;
+    padding-top:15px;
+    background-color: #FFF;
+}
+
+div#form{
+    margin: 0 auto;
+    height: 375px;
+}
+
+div#enq_area p{
+    font-size: 1.4em;
+}
+
+#enq_title{
+    font-size:1.5em;
+    color:#A00;
+}

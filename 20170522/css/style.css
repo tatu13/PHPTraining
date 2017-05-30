@@ -1,0 +1,42 @@
+div#wrap{
+    width:100%;
+}
+div#form{
+    width:800px;
+    margin: 0 auto;
+}
+
+form{
+    width:500px;
+    margin:0 auto;
+}
+
+table{
+    width:500px;
+    margin:0 auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.phone1{
+    width:50px;
+}
+
+.phone2{
+    width:70px;
+}
+
+.mail1{
+    width:90px;
+}
+
+.mail2{
+    width:100px;
+}
+
+textarea{
+    width:430px;
+    height:150px;
+}

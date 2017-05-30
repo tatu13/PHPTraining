@@ -1,0 +1,55 @@
+body{
+    background-color: #ffe4b5;
+}
+
+div#wrap{
+    width:100%;
+}
+div#form{
+    width:800px;
+    margin: 0 auto;
+}
+
+form{
+    width:500px;
+    margin:0 auto;
+}
+
+section#form_inner{
+    width:600px;
+    height: 480px;
+    background-color: #f5f5f5;
+    margin-left: 100px;
+}
+
+table{
+    width:500px;
+    margin-left:25px;
+}
+
+.center{
+    text-align: center;
+}
+
+.phone1{
+    width:50px;
+}
+
+.phone2{
+    width:70px;
+}
+
+.mail1{
+    width:90px;
+}
+
+.mail2{
+    width:100px;
+}
+
+textarea{
+    width:430px;
+    height:150px;
+    resize: none;
+    margin-left:25px;
+}

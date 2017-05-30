@@ -86,4 +86,7 @@
         print '</tr>';
     }
     print '</table>';
+
+    print '<a href="http://google.co.jp">goo';
+    print '<br />gleへ</a>>'
 ?>

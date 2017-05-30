@@ -1,0 +1,58 @@
+form#input{
+    width:500px;
+    margin:0 auto;
+}
+
+table{
+    width:500px;
+}
+
+#input{
+    margin-left:25px;
+}
+
+
+.phone1{
+    width:50px;
+}
+
+.phone2{
+    width:70px;
+}
+
+.mail1{
+    width:90px;
+}
+
+.mail2{
+    width:100px;
+}
+
+textarea{
+    width:430px;
+    height:150px;
+    resize: none;
+    margin-left:25px;
+}
+
+.sbt_1{
+	width:120px;
+	height:40px;
+	background-color:#e83f22;
+	border:none;
+	color:#fff;
+	font-size:13px;
+	font-weight:700;
+	text-align:center;
+    margin-right:5px;
+}
+
+.sbt_1:hover{
+	background-color:#ff7f50 !important;
+	color:#fff;
+}
+
+div#form{
+    padding-top:10px;
+    min-height: 500px;
+}
