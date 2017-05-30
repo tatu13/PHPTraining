@@ -182,6 +182,10 @@
             if(strpos($question,',') !== false){
                 $question = str_replace(',','&cma;',$question);
             }
+            if(strpos($question,'<') !== false){
+                $question = str_replace('<','&lst;',$question);
+                $question = str_replace('>','&gst;',$question);
+            }
             if($question === "" || mb_ereg_match("\s",$question)){
                 $question="未入力です";
             }
